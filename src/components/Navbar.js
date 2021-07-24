@@ -6,7 +6,7 @@ const Navbar = ({ onSetIsClicked }) => {
     return (
         <div className="Navbar">
             <ul>
-                <li><a className="brand">LGM USERS</a></li>
+                <li><a className="brand">LGM USERS JULY</a></li>
                 <button onClick={clicked}className="button button1">Get Users</button>
             </ul>
         </div>
